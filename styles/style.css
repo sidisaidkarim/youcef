@@ -1,6 +1,7 @@
 body{
 
 }
+
 .fill-viewport{
   height: 100vh;
 }
@@ -37,4 +38,8 @@ padding-top:10%;
     font-weight: 600;
     font-size: 25px;
   }
+}
+
+#competences{
+  padding-top:30px;
 }
