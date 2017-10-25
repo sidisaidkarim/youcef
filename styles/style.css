@@ -16,7 +16,7 @@ background-position: center center;
 -o-background-size: cover;
 background-size: cover;
 color:white;
-margin-top:20px;
+margin-top:30px;
 }
 .tres-grand{
 font-weight: 700;
@@ -41,5 +41,9 @@ padding-top:10%;
 }
 
 #competences{
-  padding-top:30px;
+  padding-top:50px;
+}
+#competences img{
+	margin-left:auto;
+	margin-right:auto;
 }
