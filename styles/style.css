@@ -1,5 +1,7 @@
 body{
-
+margin-left: 5px;
+margin-right: 5px;
+font-family: 'Roboto Mono', monospace;
 }
 
 .fill-viewport{
@@ -16,7 +18,16 @@ background-position: center center;
 -o-background-size: cover;
 background-size: cover;
 color:white;
-margin-top:30px;
+padding-top:30px;
+}
+#down-button{
+  display:block;
+  position:absolute;
+  right:50%;
+  bottom:0px;
+}
+#down-button a{
+  color:inherit;
 }
 .tres-grand{
 font-weight: 700;
@@ -43,7 +54,8 @@ padding-top:10%;
 #competences{
   padding-top:50px;
 }
-#competences img{
+
+#competences img {
 	margin-left:auto;
 	margin-right:auto;
 }
