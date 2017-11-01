@@ -47,18 +47,18 @@ padding-top:10%;
   padding-top:50px;
 }
 
-#competences img {
-	margin-left:auto;
+
+.img-center{
+  margin-left:auto;
 	margin-right:auto;
 }
-
 
 .timeline {
     position: relative;
     top:100px;
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #474e5d;
+    background-color: #e2e2e2;
 
 }
 
@@ -178,4 +178,7 @@ padding-top:10%;
   .right {
     left: 0%;
   }
+}
+#projects{
+  padding-top: 180px;
 }
